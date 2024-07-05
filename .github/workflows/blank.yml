@@ -36,5 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          cat four.txt
