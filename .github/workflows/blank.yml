@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
       - name: Run a multi-line script
         run: |
-          cat four.txt
+          cat first.txt
