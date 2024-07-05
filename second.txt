@@ -1,1 +1,2 @@
+new line f1
 This is second file
